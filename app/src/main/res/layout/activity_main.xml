@@ -33,4 +33,20 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="SUBMIT" />
+
+    <Button
+        android:layout_marginTop="240dp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/btnsecond"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Second Button" />
+
+    <Button
+        android:layout_marginTop="290dp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/btnthird"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="THIRD BUTTON" />
 </RelativeLayout>
